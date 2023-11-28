@@ -1,0 +1,4 @@
+#Tue Nov 28 01:00:10 BRT 2023
+base.0=C\:\\Users\\Davizin do jet\\Downloads\\E-commerce-Complete-Flutter-UI-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
